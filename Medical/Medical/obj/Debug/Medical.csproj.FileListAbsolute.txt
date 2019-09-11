@@ -1,0 +1,6 @@
+d:\bharat\documents\visual studio 2013\Projects\Medical\Medical\obj\Debug\Medical.csprojResolveAssemblyReference.cache
+d:\bharat\documents\visual studio 2013\Projects\Medical\Medical\bin\Medical.dll.config
+d:\bharat\documents\visual studio 2013\Projects\Medical\Medical\bin\Medical.dll
+d:\bharat\documents\visual studio 2013\Projects\Medical\Medical\bin\Medical.pdb
+d:\bharat\documents\visual studio 2013\Projects\Medical\Medical\obj\Debug\Medical.dll
+d:\bharat\documents\visual studio 2013\Projects\Medical\Medical\obj\Debug\Medical.pdb
